@@ -1,2 +1,2 @@
 # Youtube-Clone
-Youtube Clone is amazing design using HTML, CSS.
+Youtube Clone is amazing just like a Youtube UI using HTML, CSS.
